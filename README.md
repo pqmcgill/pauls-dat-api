@@ -1,4 +1,4 @@
-# pauls-dat-api
+# pats-dat-api
 
 A library of functions that make working with [dat](https://github.com/datproject/dat-node) / [hyperdrive](https://github.com/mafintosh/hyperdrive) easier.
 Includes common operations, and some sugars.
@@ -10,7 +10,7 @@ All async methods work with callbacks and promises. If no callback is provided, 
 
 To use with node versions lesser than 7 use:
 ```js
-var pda = require('pauls-dat-api/es5');
+var pda = require('pats-dat-api/es5');
 ```
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -54,7 +54,7 @@ var pda = require('pauls-dat-api/es5');
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ```js
-const pda = require('pauls-dat-api')
+const pda = require('pats-dat-api')
 ```
 
 ## Lookup
